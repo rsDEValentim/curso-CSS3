@@ -1,0 +1,12 @@
+p {color:#f00; font-size: 15pt;
+}
+
+/*  # -> id
+    . -> class
+*/
+
+#p1 {color: blue; font-size: 30pt;} 
+
+.txt {color:#0f0; font-size: 20pt;}
+
+
